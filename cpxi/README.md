@@ -31,11 +31,5 @@
 ## Resources
 
 * CIS Benchmarks
-
-
-
-http://csrinfo.cisconetspace.com/Landing-pages_Cyber-Patriot.html
-
-## Train
-
-https://volunteer.uscyberpatriot.org/Volunteer%20Documents/CP-XI%20Cisco%20Networking%20Challenge%20Overview.pdf
+* MyCyberPatriot - http://mycyberpatriot.org/
+* FCCS CyberPatriot - https://sites.google.com/site/fccscyberpatriot/home
