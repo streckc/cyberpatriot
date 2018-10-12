@@ -1,6 +1,6 @@
 # CyberPatriot
 
-- CyberPatriot XI
+- [Discussion Topics](./topics.md)
 
 ## Resources
 
