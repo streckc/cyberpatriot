@@ -1,6 +1,6 @@
 # CyberPatriot
 
-- [Discussion Topics](./topics.md)
+- [Discussion Topics](./topics/README.md)
 
 ## Resources
 
