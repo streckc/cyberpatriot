@@ -1,4 +1,4 @@
-# Protecting CIA from DAD
+# Protecting CIA from DAD (blog)
 
 What is CyberPatriot?  For the official statement of what the CyberPatriot is, the website at http://uscyberpatriot.org/ states:
 

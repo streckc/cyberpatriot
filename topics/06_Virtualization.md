@@ -1,4 +1,4 @@
-# Virtualization
+# Virtualization (blog)
 
 ![What if I told you that you can run a computer inside your computer!](./img/virtual_morpheus.jpg)
 

@@ -1,4 +1,4 @@
-# Confidentiality
+# Confidentiality (blog)
 
 As mentioned in the introductory message, the primary principles of cybersecurity are Confidentiality, Integrity, and Availability.
 

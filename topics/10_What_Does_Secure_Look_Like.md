@@ -1,4 +1,4 @@
-# What Does Secure Look Like
+# What Does Secure Look Like (blog)
 
 ![Not sure if cat walked across keyboard, or just created extremely strong password.](./img/cat_password.jpg)
 

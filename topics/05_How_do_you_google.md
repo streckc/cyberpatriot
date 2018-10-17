@@ -1,4 +1,4 @@
-# How do you google
+# How do you google (blog)
 
 Taking a step away from security specific topics, lets talk a bit on searching the internet.
 

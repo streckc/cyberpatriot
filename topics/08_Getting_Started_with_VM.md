@@ -1,4 +1,4 @@
-# Getting Started with VM
+# Getting Started with VM (blog)
 
 If you have a computer, with a 64-bit processor in it, and at least 2 GB of RAM, you should be able to work with a CyberPatriot image.
 

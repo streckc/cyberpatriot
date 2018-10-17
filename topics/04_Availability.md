@@ -1,4 +1,4 @@
-# Availability
+# Availability (blog)
 
 And for the principle of cybersecurity that most people may not think about when talking about security... availability.  With out availability to data and information, there is no purpose for the data.  If the data gets destroyed, money and knowledge is lost.  Availability makes sure we can get access to the data, whether there are power failures or flooded networks.
 

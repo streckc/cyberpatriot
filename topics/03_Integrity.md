@@ -1,4 +1,4 @@
-# Integrity
+# Integrity (blog)
 
 The second principle of cybersecurity is integrity.  This is the preservation of the data and guarantee that data that goes into the system comes out intact, and stays true, without alteration.
 

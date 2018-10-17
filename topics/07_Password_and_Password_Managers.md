@@ -1,4 +1,4 @@
-# Password and Password Managers
+# Password and Password Managers (blog)
 
 Passwords may not be the best form of security, but due to the ease of use, they tend to be the most widely used.  Creating good passwords can be a skill.
 
