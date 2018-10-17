@@ -7,8 +7,8 @@
 	echo ""
 
 	export COUNT=0
-	ls | fgrep -v 'README.md' | sort -n | while read FILENAME; do
-		DESC=$(echo $FILENAME | sed -e 's/_/ /g' -e 's/^[0-9 ]*//')
+	ls *.md | fgrep -v 'README.md' | sort -n | while read FILENAME; do
+		DESC=$(grep '^# ' $FILENAME | head -1 | sed -e 's/^# //g')
 		COUNT=$(($COUNT + 1))
 		echo "$COUNT. [$DESC](./$FILENAME)"
 	done
