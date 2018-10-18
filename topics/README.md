@@ -15,3 +15,7 @@ Many of these topics have been taken from blog articles or e-mails used during t
 11. [CyberPatriot Overview (e-mail)](./11_CyberPatriot_Overview.md)
 12. [Windows 10 Scenario (e-mail)](./12_Windows_10_Scenario.md)
 13. [Windows 10 and Passwords (e-mail)](./13_Windows_10_and_Passwords.md)
+14. [Bonus- Cryptogrpahy (e-mail)](./14_Bonus-_Cryptography.md)
+15. [Windows 10 and Files (e-mail)](./15_Windows_10_and_Files.md)
+16. [Windows 10 and Users (e-mail)](./16_Windows_10_and_Users.md)
+17. [Windows 10 and Services (e-mail)](./17_Windows_10_and_Services.md)
