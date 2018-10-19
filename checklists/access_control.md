@@ -13,6 +13,10 @@
 * Check that all acounts have passwords assigned.
     * Create a password for accounts with out passwords.
     * For competition, Write down account name and password assigned.
+* Check that the administrator account has been renamed. (Windows)
+    * `Administrator` account does not have administrative permissions.
+    * Another account is listed as built-in with administrative permissions.
+
 
 ## Passwords
 
