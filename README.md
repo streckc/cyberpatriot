@@ -1,6 +1,7 @@
 # CyberPatriot
 
 - [Discussion Topics](./topics/README.md)
+- [Check Lists](./checklists/README.md)
 
 ## Resources
 
