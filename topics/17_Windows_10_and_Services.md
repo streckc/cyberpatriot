@@ -1,4 +1,4 @@
-# Windows 10 and Services (e-mail)
+# Windows 10 and Services
 
 
 The second paragraph is exclusively for "Windows Action Center" must be enabled and monitoring the system".
